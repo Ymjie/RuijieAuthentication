@@ -1,0 +1,2 @@
+# RuijieAuthentication
+基于锐捷校园网webapi认证客户端
